@@ -41,5 +41,9 @@
   ...
   50.17%. goose: "Where got'st thou that goose look?" (2996)
   ```
+  
+## Credits
+  Included text file of Macbeth taken from http://shakespeare.mit.edu/macbeth/full.html.
+ 
 
   
